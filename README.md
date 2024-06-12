@@ -24,3 +24,11 @@ Hereby, our main objective is the customer’s satisfaction considering today’
 4. Protecting the Customer: It helps the customer to be satisfied and comfortable in his choices, this protection contains customer’s account, money and his privacy.
 
 5. Transferring Money: Help client transferring money to/or another bank or country.
+
+## Methods
+
+∙ We need to be able to generate an account number
+∙ Account types: Savings or Current Account
+∙ Maintain/update Balance
+∙ Open/Close Account
+∙ Withdraw/Deposit
