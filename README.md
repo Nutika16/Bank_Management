@@ -95,5 +95,34 @@ User can also transfer money from their account to any other bank account. User 
 2. Transaction executed through a valid session will be construed by RR to have emanated from the registered customer and will be binding on him/her.
 3. The customer will not attempt or permit others to attempt accessing the BAMS Bank through any unlawful means.
 
+## Interface Details
+
+### Welcome to ATM :
+
+### 2 parameters:
+
+1. CARD Number 2. PIN
+
+### APPLICATION FORM NO. (ANY RANDOM UNIQUE NUMBER )
+
+PERSONAL DETAILS(Name, Father's Name , DOB , Gender , Email Address , Marital Status, Address , City , PIN CODE , State.)
+
+### PAGE2: ADDITIONAL DETAILS
+
+(Religion(Dropdown), Category(Dropdown),income(D),Educational Qualifications(D),Occupation, PAN Number , Aadhar Number , Senior Citizen(Radio),Existing Account(R))
+
+### PAGE3: ACCOUNT DETAILS
+
+Account Type (Saving , fixed deposit , current , recurring deposit) , Card Number(16 Digit) , PIN (4 Digit) , Services Required(ATM Card , Internet Banking , Mobile Banking , EMAIL Alerts, Cheque Books , E-Statement)
+
+A checkbox (I hereby declares that the above entered details are correct to the best of my knowledge).
+
+After Sign Up a Card Number and Pin will be automatically generated for you.
+
+#### Constraint
+
+You can't open the account with 0 amount. You need to deposit some amount to the account
+
+
 
    
