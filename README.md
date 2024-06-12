@@ -48,11 +48,17 @@ Individual Accounts, manage existing accounts, View all transactions, Balance en
 Delete/close account etc.
 
 1- Admin login
+
 2- Add/delete/update account
+
 3- Withdrawal/deposit/statements transaction
+
 4- Account Information
+
 5- User details list
+
 6- Active/Inactive account
+
 7- View transaction histories
 
    
