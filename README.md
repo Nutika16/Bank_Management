@@ -37,6 +37,8 @@ Hereby, our main objective is the customer’s satisfaction considering today’
 
 5. Withdraw/Deposit
 
-   Here in my project there are two types of modules. This module is the main module which performs all the main operations in the system. 
+## Administrative Modules
+
+Here in my project there are two types of modules. This module is the main module which performs all the main operations in the system.
 
    
