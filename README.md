@@ -90,10 +90,9 @@ User can also transfer money from their account to any other bank account. User 
 ## Customer’s obligations
 
 1. The customer has an obligation to maintain secrecy in regard to Username &
-   Password registered with the Bank. The bank presupposes that login using valid
-   Username and Password is a valid session initiated by none other than the customer.
+   Password registered with the Bank. The bank presupposes that login using the valid Username and Password is a valid session initiated by none other than the customer.
 2. Transaction executed through a valid session will be construed by RR to have emanated from the registered customer and will be binding on him/her.
-3. The customer will not attempt or permit others to attempt accessing the BAMS Bank through any unlawful means.
+3. The customer will not attempt or permit others to attempt accesing the BAMS Bank through any unlawful means.
 
 ## Interface Details
 
@@ -101,11 +100,12 @@ User can also transfer money from their account to any other bank account. User 
 
 ### 2 parameters:
 
-1. CARD Number 2. PIN
+1. CARD Number
+2. PIN
 
 ### APPLICATION FORM NO. (ANY RANDOM UNIQUE NUMBER )
 
-PERSONAL DETAILS(Name, Father's Name , DOB , Gender , Email Address , Marital Status, Address , City , PIN CODE , State.)
+PERSONAL DETAILS(Name, Father's Name, DOB, Gender, Email Address, Marital Status, Address, City, PIN CODE, State.)
 
 ### PAGE2: ADDITIONAL DETAILS
 
