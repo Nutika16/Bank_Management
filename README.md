@@ -78,4 +78,14 @@ User can also transfer money from their account to any other bank account. User 
 
 6- Change Password and Pin
 
+## Banks terms:
+
+1. All requests received from customers are logged for backend fulfillment and are effective from the time they are recorded at the branch.
+2. Rules and regulations applicable to normal banking transactions in India will be applicable mutatis mutandis for the transactions executed through this site.
+3. The BAMS Bank service cannot be claimed as a right. The bank may also convert this into a discretionary service anytime.
+4. Dispute between the customer and the Bank in this service is subject to the jurisdiction of the courts in the Republic of India and governed by the laws prevailing in India.
+5. The Bank reserves the right to modify the services offered or the Terms of service of
+   BAMS Bank. The changes will be notified to the customers through a notification on the Site.
+
+
    
