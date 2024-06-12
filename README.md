@@ -27,12 +27,14 @@ Hereby, our main objective is the customer’s satisfaction considering today’
 
 ## Methods
 
-∙ We need to be able to generate an account number
+1. We need to be able to generate an account number
 
-∙ Account types: Savings or Current Account
+2. Account types: Savings or Current Account
 
-∙ Maintain/update Balance
+3. Maintain/update Balance
 
-∙ Open/Close Account
+4. Open/Close Account
 
-∙ Withdraw/Deposit
+5. Withdraw/Deposit
+
+   
