@@ -87,5 +87,13 @@ User can also transfer money from their account to any other bank account. User 
 5. The Bank reserves the right to modify the services offered or the Terms of service of
    BAMS Bank. The changes will be notified to the customers through a notification on the Site.
 
+## Customer’s obligations
+
+1. The customer has an obligation to maintain secrecy in regard to Username &
+   Password registered with the Bank. The bank presupposes that login using valid
+   Username and Password is a valid session initiated by none other than the customer.
+2. Transaction executed through a valid session will be construed by RR to have emanated from the registered customer and will be binding on him/her.
+3. The customer will not attempt or permit others to attempt accessing the BAMS Bank through any unlawful means.
+
 
    
