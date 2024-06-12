@@ -67,10 +67,15 @@ A simple user can access their account and can deposit/withdraw money from their
 User can also transfer money from their account to any other bank account. User can see their transaction report and balance enquiry too.
 
 1- User login, use PIN system
+
 2- Creating/open new account registration
+
 3- Funds transfer (local/international/domestic)
+
 4- View statements transaction
+
 5- User account details
+
 6- Change Password and Pin
 
    
