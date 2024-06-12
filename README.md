@@ -41,4 +41,18 @@ Hereby, our main objective is the customer’s satisfaction considering today’
 
 Here in my project there are two types of modules. This module is the main module which performs all the main operations in the system.
 
+## Admin Module
+
+Admin can access this project there is an authorization process. If you login as an Admin then you will be redirected to the Admin Home Page and if you are a simple user you will be redirected to your Account Home Page. This performs the following functions: Create
+Individual Accounts, manage existing accounts, View all transactions, Balance enquiry,
+Delete/close account etc.
+
+1- Admin login
+2- Add/delete/update account
+3- Withdrawal/deposit/statements transaction
+4- Account Information
+5- User details list
+6- Active/Inactive account
+7- View transaction histories
+
    
