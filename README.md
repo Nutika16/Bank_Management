@@ -119,7 +119,7 @@ A checkbox (I hereby declares that the above entered details are correct to the 
 
 After Sign Up a Card Number and Pin will be automatically generated for you.
 
-#### Constraint
+## Constraint
 
 You can't open the account with 0 amount. You need to deposit some amount to the account
 
